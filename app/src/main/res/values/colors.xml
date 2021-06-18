@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="blue_500">#1f96ff</color>
+    <color name="blue_700">#42a6ff</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //colores adicionales
+    <color name="Fondo">#bde0ff</color>
+    <color name="Fondo_adicional">#52aeff</color>
+    <color name="Letra_subtitulo">#0075a3</color>
+</resources>

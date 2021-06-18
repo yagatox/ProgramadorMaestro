@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Programador Maestro</string>
+    <string name="java">JAVA</string>
+    <string name="lenguajes_de_programacion">Lenguajes de Programacion</string>
+    <string name="vb_net">VB.NET</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="c">C++</string>
+    <string name="python">Python</string>
+    <string name="javascript">Javascript</string>
+    <string name="scala">Scala</string>
+    <string name="dart">Dart</string>
+    <string name="go">GO</string>
+    <string name="sql">SQL</string>
+    <string name="swift">Swift</string>
+    <string name="ruby">Ruby</string>
+    <string name="php">PHP</string>
+    <string name="c_plus">C#</string>
+</resources>
